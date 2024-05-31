@@ -1,4 +1,4 @@
-# My GitHub Repository
+# Solving Korea Dialect Translation Problem Under Data Scarcity
 
 This repository contains Jupyter notebooks that implement various machine learning models using resources from Hugging Face. Below you'll find the description and references for each file.
 
