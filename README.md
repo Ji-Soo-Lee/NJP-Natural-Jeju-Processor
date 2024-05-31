@@ -8,8 +8,7 @@ This repository contains Jupyter notebooks that implement various machine learni
 
 This Jupyter notebook utilizes the `ke-t5-small` model from KETI-AIR, specifically designed for processing and generating Korean text. For more details on this model, you can visit the Hugging Face model page.
 
-**Reference:** [KETI-AIR/ke-t5-small - Hugging Face](https://huggingface.co/KETI-AIR/ke-t5-small)
-**Reference:** [Base Code](https://metamath1.github.io/blog/posts/gentle-t5-trans/gentle_t5_trans.html)
+**Reference:** [KETI-AIR/ke-t5-small - Hugging Face](https://huggingface.co/KETI-AIR/ke-t5-small) | [Base Code](https://metamath1.github.io/blog/posts/gentle-t5-trans/gentle_t5_trans.html)
 
 ### RLHF_BertRM.ipynb
 
